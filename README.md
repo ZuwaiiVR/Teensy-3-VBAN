@@ -44,3 +44,12 @@ Ethernet shield W5200/W5500 (W5100 is too slow! will lose packages)
  Inspired from https://github.com/flyingKenny/VBAN-Receptor-ESP8266-I2S
  
  Code edited by Dnstje
+ 
+ # Setup
+ 
+ Get the VoiceMeeter Banana application on https://www.vb-audio.com/Voicemeeter/
+ And follow some other tutorial to get it working first.
+ When you done that, go to the VBAN window, enable VBAN and add the IP from the teensy in the output section.
+ as for this sketch it works with the follow setting in green.
+ ![alt text](https://github.com/Dnstje/Teensy-3-VBAN/blob/master/voicemeeterpro_qgVvrkXFB5.png "vban")
+
