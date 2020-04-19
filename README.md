@@ -38,6 +38,7 @@ Ethernet shield W5200/W5500 (W5100 is too slow! will lose packages)
 | 7 | MOSI |
 | 6 | SCS |
 | 5 | RST |
+
  There is some glitches aka, a 40ms silence randomly. I don't know where this come from. but less then using Wifi on the ESP modules.
  Inspired from https://github.com/flyingKenny/VBAN-Receptor-ESP8266-I2S
  Code edited by Dnstje
